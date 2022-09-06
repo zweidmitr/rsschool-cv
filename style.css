@@ -1,18 +1,1 @@
-* {
-  box-sizing: border-box;
-  font-weight: 400;
-  margin: 0;
-  padding: 0;
-  scroll-behavior: smooth;
-}
 
-body {
-  color: #444;
-  font-family: sans-serif;
-  border-top: 10px solid #1098ad;
-  position: relative;
-}
-
-h1 {
-  font-size: 2px;
-}
