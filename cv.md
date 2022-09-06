@@ -1,11 +1,11 @@
 # DMITRII ALEX
 
-## contact
+## Contact
 
 - **github:** [zweidmitr](https://github.com/zweidmitr)
 - **location:** Saint-Petersburg
 
-## skills
+## Skills
 
 - **Java**
 - **Postgres**
